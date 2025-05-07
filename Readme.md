@@ -102,24 +102,10 @@ streamlit run app.py
 
 > ![Generated Ad Image]## 🖼️ Screenshots
 
-### 🎯 Campaign Input Form
+### Example 1
 ![Campaign Form](images/image1.png)
 
-### 📢 Generated Ad Output
+### Example 2
 ![Generated Ad](images/image2.png)
 
 ---
-
-## 🧠 Inspiration
-
-Built to help small businesses and marketers auto-generate creative, engaging campaigns—without hiring a full creative team!
-
----
-
-## 📝 License
-
-This project is for educational and personal use. Modify and share freely. Please credit the original authors where applicable.
-
----
-
-Let me know if you'd like a version with badges or screenshots embedded!
