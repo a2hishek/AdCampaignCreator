@@ -94,14 +94,6 @@ streamlit run app.py
 
 ## 🖼️ Example Output
 
-> **Headline**: "Power Up Your Playtime!"
-
-> **Ad Description**: Introducing our latest gaming console designed for teens seeking thrill and speed. Small in size, massive in performance.
-
-> **Call to Action**: Order now and level up your experience!
-
-> ![Generated Ad Image]## 🖼️ Screenshots
-
 ### Example 1
 ![Campaign Form](images/image1.png)
 
